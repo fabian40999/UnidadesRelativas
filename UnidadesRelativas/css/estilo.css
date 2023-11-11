@@ -1,0 +1,30 @@
+*{margin: 0; padding: 0;}
+
+body{
+    background: #ffe69d;
+}
+
+.fila_head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: #ff0000;
+}
+
+table{
+    border-collapse: collapse;
+    background: #faf1ab;
+    border: 5px dotted #1206fa;
+    border-bottom-style: dashed;
+    border-bottom-color: #696969;
+}
+
+td{
+    border: 5px dotted #000000;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Haga que cada descripción vaya abajo enseguida el autor correpondiente.*/
+
+/*Aplicar dos porcentajes diferentes en los 2 td de descripción y agregar un libro que su descripción ocupe 1 columna.*/

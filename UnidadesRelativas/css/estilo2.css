@@ -1,0 +1,72 @@
+*{
+    margin: 1; padding: 0;
+}
+
+html{
+    background-color: #c90000;
+}
+
+#contenedor{
+    width: 80%;
+    max-width: 1200px;
+}
+
+#cabecera{
+    font-size: 1em;
+    margin-bottom: .5em;
+}
+
+#logo1{
+    width: 25%;
+}
+
+#logo2{
+    width: 18.7em;
+}
+
+#logo3{
+    width: 299px;
+}
+
+#menu{
+    margin-bottom: 6em;
+}
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu li{
+    list-style-type: none;
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    font-size: 1.5em;
+}
+
+#menu li a:hover{
+    color:#00ffff;
+}
+
+#menu li a:visited{
+    color: #0ff;
+}
+
+#contenido{
+    background: #000000;
+    border: 2px solid #ff0000;
+    color: #fff;
+    font-size: 2em;
+}
+
+.articulo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    color: #c90000;
+}
+
+.articulo{
+    font-size: 1em;
+}
+
+/*Entregar este proyecto con la imagen en 3 presentaciones Unidades em*/
